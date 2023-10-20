@@ -1,0 +1,26 @@
+.count-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    font-size: 2rem;
+  }
+  
+  .count-container button {
+    margin: 0.5rem;
+    padding: 0.5rem 1rem;
+    font-size: 1rem;
+    border: none;
+    background-color: #f0f0f0;
+    color: #333;
+    cursor: pointer;
+  }
+  
+  .count-container button:hover {
+    background-color: #e0e0e0;
+  }
+  
+  .count-container div {
+    margin-bottom: 1rem;
+  }
+  
